@@ -1,4 +1,4 @@
-(ns lucians-lucious-lasagna)
+(ns lucians-luscious-lasagna)
 
 (def expected-time
   40)
